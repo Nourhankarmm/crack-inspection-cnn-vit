@@ -2,7 +2,6 @@
 
 A binary image classification project to automatically detect the presence of cracks in road/pavement surfaces using deep learning. This work compares classical CNNs with Vision Transformers (ViT) for improved accuracy.
 
-![cover](assets/cover.jpg)
 ---
 
 ## 🚀 Project Overview
