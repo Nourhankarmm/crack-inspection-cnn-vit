@@ -78,7 +78,21 @@ dataset/
 
 ## ⚙️ Installation
 
-```bash
 git clone https://github.com/Nourhankarmm/crack-classification-cnn-vit.git
 cd crack-classification-cnn-vit
-pip install -r requirements.txt
+
+---
+
+## 🛠️ Tech Stack
+
+Python
+TensorFlow / PyTorch
+Vision Transformers
+OpenCV
+Matplotlib, NumPy
+
+---
+
+## ⭐ Acknowledgements
+
+HuggingFace Vision Transformer resources
